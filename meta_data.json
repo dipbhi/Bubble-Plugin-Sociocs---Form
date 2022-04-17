@@ -7,7 +7,7 @@
         "4": "productivity"
     },
     "demo_page": "https://sociocs-plugins.bubbleapps.io/version-test/form_demo",
-    "description": "Plugin instructions: https://github.com/dipbhi/Bubble-Plugin-Sociocs---Form/wiki/Bubble-Sociocs---Form-plugin-setup\n\nSociocs inbox is available as web app and mobile apps.\n\n- Web App: https://app.sociocs.com\n- Mobile Apps: https://mobileapps.page.link/sociocs\n\nThis plugin itself is FREE, however, it requires a FREE TRIAL or PAID account on Sociocs to use the necessary API for this plugin.\n\nOther plugins: https://sociocs-plugins.bubbleapps.io/version-test/",
+    "description": "Form (e.g. Contact Us, Appointment Request etc.) plugin for Bubble.\n\nPlugin instructions: https://github.com/dipbhi/Bubble-Plugin-Sociocs---Form/wiki/Bubble-Sociocs---Form-plugin-setup\n\nSociocs inbox is available as web app and mobile apps.\n\n- Web App: https://app.sociocs.com\n- Mobile Apps: https://mobileapps.page.link/sociocs\n\nThis plugin works for both PAID and FREE Sociocs accounts.\n\nOther plugins: https://sociocs-plugins.bubbleapps.io/version-test/",
     "image": "//s3.amazonaws.com/appforest_uf/f1649951794529x764520581234955100/website_forms.png",
     "license": "open_source",
     "link": "https://www.sociocs.com/contact-us/",
