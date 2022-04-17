@@ -1,6 +1,6 @@
 {
     "category": "plugins",
-    "display": "Submit Form",
+    "display": "Submit Sociocs Form",
     "fields": {
         "AAE": {
             "caption": "Form Fields",
@@ -16,12 +16,6 @@
             "caption": "status",
             "name": "status",
             "rank": 0,
-            "value": "boolean"
-        },
-        "AAQ": {
-            "caption": "result",
-            "name": "result",
-            "rank": 1,
             "value": "text"
         }
     },
