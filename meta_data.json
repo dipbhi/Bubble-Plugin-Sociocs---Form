@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "ecommerce",
+        "1": "customer support",
+        "2": "technical",
+        "3": "small business",
+        "4": "productivity"
+    },
+    "image": "//s3.amazonaws.com/appforest_uf/f1649951794529x764520581234955100/website_forms.png",
+    "license": "open_source",
+    "name": "Sociocs - Form",
+    "plugin_instructions": ""
+}

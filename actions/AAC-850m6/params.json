@@ -1,0 +1,30 @@
+{
+    "category": "plugins",
+    "display": "Submit Form",
+    "fields": {
+        "AAE": {
+            "caption": "Form Fields",
+            "doc": "Add key/value mapping for each form field you would like to see on Sociocs inbox. \"email\" key is required. \"name\" key is optional but recommended. You could add other key/values such as \"message\", \"phone number\", \"account number\" etc.",
+            "editor": "key_value_list",
+            "name": "form_fields",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAP": {
+            "caption": "status",
+            "name": "status",
+            "rank": 0,
+            "value": "boolean"
+        },
+        "AAQ": {
+            "caption": "result",
+            "name": "result",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}
