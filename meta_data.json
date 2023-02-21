@@ -12,5 +12,6 @@
     "license": "open_source",
     "link": "https://www.sociocs.com/contact-us/",
     "name": "Sociocs - Form",
-    "plugin_instructions": "https://docs.sociocs.com/integrations/bubble/plugin-form/#plugin-installation"
+    "plugin_instructions": "https://docs.sociocs.com/integrations/bubble/plugin-form/#plugin-installation",
+    "sa_node_version": 14
 }
